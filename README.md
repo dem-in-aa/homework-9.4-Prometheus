@@ -6,7 +6,17 @@
 
 Установите Prometheus.
 
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+![](img/4.png)
+![](img/5.png)
+![](img/6.png)
+
+
 *Приведите скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО].*
+
+![](img/7.png)
 
 ---
 
